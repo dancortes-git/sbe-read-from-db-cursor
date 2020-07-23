@@ -1,6 +1,8 @@
 # Spring Batch Examples - Read from DB Cursor
 
-Project with examples using Spring Batch. In this project there are configurations using JdbcCursorItemReader and ItemWriter simple implementation to write at log.
+Project with examples using Spring Batch.
+
+In this project there are configurations using JdbcCursorItemReader and ItemWriter simple implementation to write at log.
 
 ## Requirements
 You must set a database used for tests in our example we are using Postgresql.
